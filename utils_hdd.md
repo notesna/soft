@@ -8,7 +8,9 @@ https://www.softsalad.ru/articles/best-programms/bad-blocks-repear#ap-4
 http://hdd.by/downloads/
 
 Crystal Disk Mark
+
 HDDScan
+
 DiskCheckup
 CrystalDiskInfo
 Seagate SeaTools
