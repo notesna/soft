@@ -10,3 +10,5 @@ HWINFO32
 ### Лучшие бесплатные программы для просмотра онлайн ТВ
 https://remontka.pro/online-tv-free-software/
 
+MiniTool Partition Wizard Edition Comparison
+https://www.partitionwizard.com/comparison.html
