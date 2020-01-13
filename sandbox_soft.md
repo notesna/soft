@@ -19,3 +19,6 @@ https://soft.softodrom.ru/ap/Registry-Finder-Portable-p25166
 ### License crawler
 http://www.klinzmann.name/licensecrawler.htm
 
+USDownloader
+
+
