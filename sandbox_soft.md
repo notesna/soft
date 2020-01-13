@@ -12,3 +12,6 @@ https://remontka.pro/online-tv-free-software/
 
 MiniTool Partition Wizard Edition Comparison
 https://www.partitionwizard.com/comparison.html
+
+### Registry Finder (Portable) 2.42.0.0
+https://soft.softodrom.ru/ap/Registry-Finder-Portable-p25166
