@@ -7,6 +7,8 @@ Speccy
 
 HWINFO32
 
+Clonezilla – клонирование разделов и последующее восстановление
+
 ### Лучшие бесплатные программы для просмотра онлайн ТВ
 https://remontka.pro/online-tv-free-software/
 
