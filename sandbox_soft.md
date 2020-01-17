@@ -6,8 +6,12 @@ AIDA64
 Speccy
 
 HWINFO32
-
+---------------
 Clonezilla – клонирование разделов и последующее восстановление
+
+Driver Booster
+
+https://soft.softodrom.ru/Скриншот/23257/
 
 ### Лучшие бесплатные программы для просмотра онлайн ТВ
 https://remontka.pro/online-tv-free-software/
