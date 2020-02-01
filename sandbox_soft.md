@@ -9,6 +9,8 @@ HWINFO32
 
 UNetbootin
 
+Duplicate Cleaner Free
+
 
 ### Лучшие бесплатные программы для просмотра онлайн ТВ
 https://remontka.pro/online-tv-free-software/
