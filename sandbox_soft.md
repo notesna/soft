@@ -32,3 +32,9 @@ Clonezilla – клонирование разделов и последующе
 
 https://soft.softodrom.ru/Скриншот/23257/
 
+### Recovery
+
+https://soft.softodrom.ru/ap/EasyRecovery-Free-Home-Pro-p32
+
+
+
